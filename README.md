@@ -15,7 +15,7 @@ Welcome to my curated collection of Python-based projects — ranging from begin
 - Handles day rollover and week calculations.
 - Useful for learning datetime logic.
 
-### 3. 🔐 SecureAuth-Django (Major Project)
+### 3. 🔐 SecureAuth-Django
 - A complete custom **Login/Signup/Profile Management** system.
 - Built using **Django**, **MySQL**, **HTML/CSS**, and **Bootstrap**.
 - Features:
